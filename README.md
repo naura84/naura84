@@ -18,7 +18,7 @@ how we evaluate the safety of AI models, and how AI can strengthen the security 
 
 🔭 Currently building an **AI-powered security audit tool** (MSP) and exploring **LLM safety evaluation** (WMDP)
 
-🌱 Learning more about: anomaly detection, LLM evaluation pipelines, distributed systems
+🌱 Currently learning: AWS Cloud Practitioner (CLF-C02), anomaly detection, LLM evaluation pipelines
 
 💼 **Looking for an apprenticeship in Data / AI starting September 2026** (Paris area)
 
