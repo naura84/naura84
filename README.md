@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naura 👋</h1>
-<h3 align="center">Computer Science Engineering student @ ECE Paris<br/>specializing in Data & AI</h3>
+<h3 align="center">Bachelor Student in AI Development @ ECE Paris<br/>Applied AI · Data Systems · Cybersecurity</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nauralde-monteiro">
@@ -12,9 +12,8 @@
 
 ### 🎯 About me
 
-I'm a 2nd-year engineering student at **ECE Paris**, specializing in **Data & AI**.
-I'm particularly interested in the intersection of **AI safety** and **cybersecurity** —
-how we evaluate the safety of AI models, and how AI can strengthen the security of our systems.
+I'm a 2nd-year student in the Bachelor AI Developer program at ECE Paris. 
+I focus on applied AI — how we evaluate the safety of AI models, and how we deploy them in real-world contexts where data integrity and security matter
 
 🔭 Currently building an **AI-powered security audit tool** (MSP) and exploring **LLM safety evaluation** (WMDP)
 
