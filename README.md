@@ -64,6 +64,7 @@ I focus on applied AI — how we evaluate the safety of AI models, and how we de
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS_(in_progress)-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
 ---
 
 ### 🚀 Featured Projects
