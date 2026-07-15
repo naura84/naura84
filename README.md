@@ -79,16 +79,6 @@ I build software systems at the intersection of AI, cybersecurity and backend en
 
 ---
 
-Architecture interests
-
-Software Engineering
-        │
-        ├── AI
-        ├── Cybersecurity
-        ├── Backend
-        ├── DevSecOps
-        └── Cloud
-        
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naura84&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naura84&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/naura84)
 </p>
