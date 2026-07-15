@@ -71,7 +71,7 @@ I build software systems at the intersection of AI, cybersecurity and backend en
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🛡️ [**MSP – AI Security Audit**](https://github.com/naura84/MSP_2025-2026) | Automated security audit tool with AI-powered risk prioritization | Python · FastAPI · Nmap · ML |
+| 🛡️ [**AI-Powered Network Security Audit Platform**](https://github.com/naura84/AI-Powered-Network-Security-Audit-Platform.git) | Automated security audit tool with AI-powered risk prioritization | Python · FastAPI · Nmap · ML |
 | 🤖 [**WMDP Hackathon**](https://github.com/price-intelligence-agent) | LLM safety evaluation pipeline (TinyLlama, Pythia, SmolLM2) | Python · Elasticsearch · Docker |
 | 💰 [**Price Intelligence Agent**](https://github.com/naura84/price-intelligence-agent) | AI-powered pipeline analyzing competitor pricing and generating actionable business reports via LLM | Python · Anthropic API · JSON · Business Intelligence |
 | 📚 [**Java School Management**](https://github.com/naura84/Java-Project) | Complete academic management app (50+ JPA entities) | Java · JavaFX · Hibernate · MySQL |
