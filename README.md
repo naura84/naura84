@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naura 👋</h1>
-<h3 align="center">Bachelor Student in AI Development @ ECE Paris<br/>Applied AI · Data Systems · Cybersecurity</h3>
+<h3 align="center">Software Engineering • Cybersecurity • AI @ ECE Paris<br/>Applied AI · Data Systems · Cybersecurity</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nauralde-monteiro">
@@ -13,13 +13,13 @@
 ### 🎯 About me
 
 I'm a 2nd-year student in the Bachelor AI Developer program at ECE Paris. 
-I focus on applied AI — how we evaluate the safety of AI models, and how we deploy them in real-world contexts where data integrity and security matter
+I build software systems at the intersection of AI, cybersecurity and backend engineering, with a strong interest in automation, DevSecOps and secure software design.
 
-🔭 Currently building an **AI-powered security audit tool** (MSP) and exploring **LLM safety evaluation** (WMDP)
+🔭 Passionate about building reliable software systems at the intersection of **AI, cybersecurity and backend engineering**.
 
-🌱 Currently learning: AWS Cloud Practitioner (CLF-C02), anomaly detection, LLM evaluation pipelines
+🌱 Continuously learning cloud technologies, DevSecOps practices and secure software architectures.
 
-💼 **Looking for an apprenticeship in Data / AI starting September 2026** (Paris area)
+💼 Looking for an apprenticeship in **Software Engineering, Cybersecurity, DevSecOps or Applied AI** starting September 2026 (Paris area).
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/nauralde-monteiro)
 
