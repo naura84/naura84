@@ -76,6 +76,7 @@ I build software systems at the intersection of AI, cybersecurity and backend en
 | 💰 [**Price Intelligence Agent**](https://github.com/naura84/price-intelligence-agent) | AI-powered pipeline analyzing competitor pricing and generating actionable business reports via LLM | Python · Anthropic API · JSON · Business Intelligence |
 | 📚 [**Java School Management**](https://github.com/naura84/Java-Project) | Complete academic management app (50+ JPA entities) | Java · JavaFX · Hibernate · MySQL |
 | 📡 [**REST API – Library & Academic**](https://github.com/naura84/backend-node) | REST API with advanced MongoDB aggregations | Node.js · Express · MongoDB |
+| 📡 [**REST API – Order management**](https://github.com/naura84/Order-management.git) | Order and client management app for tracking, creating, and monitoring commands with a simple interface and a robust backend | FastAPI · Docker · PostgreSQL |
 
 ---
 
