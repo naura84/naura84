@@ -72,11 +72,11 @@ I build software systems at the intersection of AI, cybersecurity and backend en
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🛡️ [**AI-Powered Network Security Audit Platform**](https://github.com/naura84/AI-Powered-Network-Security-Audit-Platform.git) | Automated security audit tool with AI-powered risk prioritization | Python · FastAPI · Nmap · ML |
-| 🤖 [**WMDP Hackathon**](https://github.com/price-intelligence-agent) | LLM safety evaluation pipeline (TinyLlama, Pythia, SmolLM2) | Python · Elasticsearch · Docker |
+| 🤖 [**WMDP Hackathon**](https://github.com/naura84/WMDP_Hackathon.git) | LLM safety evaluation pipeline (TinyLlama, Pythia, SmolLM2) | Python · Elasticsearch · Docker |
 | 💰 [**Price Intelligence Agent**](https://github.com/naura84/price-intelligence-agent) | AI-powered pipeline analyzing competitor pricing and generating actionable business reports via LLM | Python · Anthropic API · JSON · Business Intelligence |
 | 📚 [**Java School Management**](https://github.com/naura84/Java-Project) | Complete academic management app (50+ JPA entities) | Java · JavaFX · Hibernate · MySQL |
 | 📡 [**REST API – Library & Academic**](https://github.com/naura84/backend-node) | REST API with advanced MongoDB aggregations | Node.js · Express · MongoDB |
-| 📡 [**REST API – Order management**](https://github.com/naura84/Order-management.git) | Order and client management app for tracking, creating, and monitoring commands with a simple interface and a robust backend | FastAPI · Docker · PostgreSQL |
+| 📡 [**REST API – Order management**](https://github.com/naura84/Order-management.git) | Order and client management app for tracking, creating, and monitoring commands with a simple interface and a robust backend | FastAPI · Docker · PostgreSQL · Alembic & SQLAlchemy |
 
 ---
 
