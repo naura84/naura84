@@ -12,7 +12,7 @@
 
 ### 🎯 About me
 
-I'm a 2nd-year student in the Bachelor AI Developer program at ECE Paris. 
+I'm a 3rd-year student in the Bachelor AI Developer program at ECE Paris. 
 I build software systems at the intersection of AI, cybersecurity and backend engineering, with a strong interest in automation, DevSecOps and secure software design.
 
 🔭 Passionate about building reliable software systems at the intersection of **AI, cybersecurity and backend engineering**.
